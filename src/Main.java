@@ -5,8 +5,10 @@ public class Main {
 
         //System.out.println(Factorial.mcd(412,184));
 
-        int[] vector={2,4,6};
-        System.out.println(Factorial.sumaVector(vector,0));
+       /* int[] vector={2,4,6};
+        System.out.println(Factorial.sumaVector(vector,0));*/
+
+        System.out.println("La Palabra Inversa es: " + Factorial.invertirPalabra("KEVIN"));
     }
 
 }
